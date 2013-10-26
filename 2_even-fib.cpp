@@ -31,4 +31,5 @@ int main()
 {
 	long sum = fib();
 	print(sum);
+	return 0;
 }
